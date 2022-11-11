@@ -1,2 +1,2 @@
-# C37 - Actividad de la maestra 1
+# C40 - Juego completo Multijugador
 Actividad de la maestra
